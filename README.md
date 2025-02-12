@@ -29,7 +29,7 @@ Currently at Pishgamanasia, additionally working on the .NET Community to make y
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majkamro&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=majkamro&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=majkamro&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)(https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=majkamro&theme=onedark)
