@@ -1,26 +1,40 @@
 # Hi there 👋 I'm Majid (or @majkamro)
 
-Currently at Pishgamanasia, additionally working on the .NET Community to make your life as a developer easier!
+As a passionate and detail-oriented backend developer specializing in .NET, I bring extensive experience in designing and implementing robust, scalable systems using Domain-Driven Design (DDD), unit testing, and Selenium testing. My technical expertise spans working with databases such as MongoDB, PostgreSQL, and SQL Server, ensuring efficient and reliable data management.
+
+I excel in integrating message-driven architectures, leveraging tools like RabbitMQ and MassTransit, and implementing scheduling and background processing solutions such as Hangfire and Quartz. Beyond .NET, I have a strong command of Node.js and NestJS, enabling me to deliver versatile solutions tailored to diverse project requirements.
+
+Currently, I lead a dynamic team of backend developers at Pishgamanasia, where I foster collaboration, mentor team members, and drive successful project delivery. With a continuous focus on innovation and quality, I strive to contribute to impactful projects and deliver exceptional results. Additionally, I actively engage with the .NET community, working to make developers' lives easier through knowledge sharing and collaboration.
 
 ## 🤓 About Me
 
 - Name: Majid Kholghi Shirazi (majkamro)
-- Twitter: [@majkamro](https://twitter.com/majkamro)
-- Blog: [majkamro.dev](https://majkamro.dev)
-- Youtube: [@majkamro](https://www.youtube.com/@majkamro)
-- Live Coding Calendar: [@majkamro](https://www.lu.ma/@majkamro)
-
-⚡ Fun fact: I once debugged a production issue while skydiving! (Okay, maybe not, but I do love solving tough problems!)
+- Blog: [majidkholghishirazi.dev](https://majidkholghishirazi.dev)
+- LinkedIn: [@majidkholghishirazi](https://www.linkedin.com/in/majid-kholghi-shirazi-916086217/)
+- Youtube: [@majidkholghishirazi](https://www.youtube.com/@majidkholghishirazi)
 
 ## 🛠️ Tech Stack
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-## 🌟 Open Source Contributions
-- Contributor to [.NET Community Projects](https://github.com/dotnet).
-- Maintainer of [Your Project Name](https://github.com/your-repo).
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/-Selenium%20WebDriver-43B02A?logo=selenium&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-512BD4?logo=.net&logoColor=white)
+![Domain--Driven Design (DDD)](https://img.shields.io/badge/-Domain--Driven%20Design%20(DDD)-512BD4?logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Hangfire](https://img.shields.io/badge/-Hangfire-512BD4?logo=.net&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-512BD4?logo=.net&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Telemetry](https://img.shields.io/badge/-Telemetry-512BD4?logo=.net&logoColor=white)
+![Serilog](https://img.shields.io/badge/-Serilog-512BD4?logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=majkamro&show_icons=true&theme=radical)
